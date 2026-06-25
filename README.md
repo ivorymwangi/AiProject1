@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Ivory
 
@@ -66,3 +67,5 @@ SOFTWARE.
 ```
 
 Both are ready to copy — just paste into `README.md` and `LICENSE` at your project root.
+=======
+# AiProject1
