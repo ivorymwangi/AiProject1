@@ -66,6 +66,3 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-Both are ready to copy — just paste into `README.md` and `LICENSE` at your project root.
-=======
-# AiProject1
